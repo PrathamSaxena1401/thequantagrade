@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Custom Typography */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Hero Carousel Animation */
+.carousel-slide {
+  transition: opacity 0.7s ease-in-out, transform 0.7s ease-in-out;
+}
